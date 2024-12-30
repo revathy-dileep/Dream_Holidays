@@ -1,0 +1,20 @@
+.cls{
+    margin-left: 50%;
+}
+.head{
+    padding-top: 1%;
+    padding-left: 3%;
+}
+.btn:hover{
+    background-color: orange;
+}
+.foot{
+    margin-left: 35%;
+   
+
+}
+.move1 i{
+    margin-left: 25px;
+
+   
+}
